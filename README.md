@@ -1,3 +1,3 @@
-# CSES-Problem-Sets
+# CSES-Problem-Set
 
 ##### This repository contains the solutions to the problem sets in the website cses.fi/problemset
