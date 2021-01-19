@@ -1,3 +1,5 @@
+// https://cses.fi/paste/d3c3054ea9f43e7417d71f/
+
 #include <iostream>
 using namespace std;
 
